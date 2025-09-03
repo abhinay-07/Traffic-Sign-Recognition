@@ -45,8 +45,8 @@ Both models are evaluated on a curated traffic sign dataset with **58 distinct c
 - Integrate real-time detection for autonomous vehicles.  
 
 ## Authors
-- **Abhinay Babu M** – VIT-AP University
-- **Guide :**  Kalyani S
+- **Abhinay Babu Manikanti** – VIT-AP University
+- **Faulty Guide :**  Kalyani S
 
 ---
 🔗 This project demonstrates the effectiveness of **CNN architectures** in optimizing traffic sign recognition and contributes towards safer **autonomous driving systems**.
